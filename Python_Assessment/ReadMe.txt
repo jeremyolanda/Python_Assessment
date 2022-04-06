@@ -5,6 +5,7 @@ Browser Used:
 Extract the Python_Assessment-main
 Install the chromedriver.exe (Version 100.0.4896.60). Make sure that your Google Chrome browser version match your chrome driver.
 Notes: Make sure you extract the files (web_search.py & blender_api.py) inside C:\Python_Assessment folder
+Create a folder named videos inside C:\Python_Assessment -> C:\Python_Assessment\videos
 Install selenium in python using pip install selenium
 Install webdriver_manager using pip install webdriver_manager
 Run the web_search.py in python IDE.
